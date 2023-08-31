@@ -5,3 +5,7 @@ This is my first Javascript project. You need to guess a random number from 1-20
 
 ## What I Learn
 - manipulate DOM using querySelector
+
+## Try It!
+https://ihsanramdhani.github.io/guess-my-number/
+
